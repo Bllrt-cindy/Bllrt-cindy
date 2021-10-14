@@ -19,18 +19,33 @@ To increase my skills as a developer, I like to programme some little funny game
 <details>
 <summary>Here are my Competences</summary>
   
-  |  HardSkills  |  SoftSkills  |
-  |:------------:|:-----------: |
-  |  HTML CSS JS |  Empathie    |
-  |      C       |  Écoute      |
-  |    Python    |  Solidarité  |
-  |   Inkscape   |  Volontaire  |
-  |    Github    |  Serviable   |
-  |   Wordpress  |  Curiosité   |
+## Hardskills <br>
+ 
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=html5&logoColor=orange&color=4AB197)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=orange&color=4AB197)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&logoColor=yellow&color=4AB197) <br>
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=yellow&color=4AB197)
+![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=wordpress&logoColor=blue&color=4AB197) <br>
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=purple&color=4AB197)
+![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=orange&color=4AB197)
+![](https://img.shields.io/badge/Inkscape-informational?style=flat&logo=inkscape&logoColor=black&color=4AB197) 
   
-</details>
-
 <br>
+
+## Softskills <br>
+
+- Empathie
+- Solidarité
+- Entraide
+- Volontarisme
+- Serviabilité
+- Bienveillance
+
+</details>
+<br>
+
+
 
 ### *What i like to do ?*
 <br>
@@ -38,9 +53,7 @@ To increase my skills as a developer, I like to programme some little funny game
 I like to use inkscape, I thing it's very interessing to use my own caracters when I'm using scratch for exemple.
 In my life, I balance the activities I love such as to paint, draw, danse and sing, and sometimes I like to organize some shooting photo too. I am a zelda game fan, i'm not a movie lovers, but almost should I say 😂.
 To finish, I like to grow and learn some new things, to have some thrills for example, I actually learn how to draw with pixels and the parachute jump I did.
-
 <br>
-
 
 #### *Here are some things I project to do :*
 <br>
