@@ -1,4 +1,4 @@
-![Un paisible coucher de soleil!](/assets/images/image.png)
+
 
 
 # Hi there, I'm Cindy Billerait, and you landed on my github 😉
