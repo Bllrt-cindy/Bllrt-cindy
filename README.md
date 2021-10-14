@@ -1,3 +1,5 @@
+![Un paisible coucher de soleil!](/assets/images/image.png)
+
 
 # Hi there, I'm Cindy Billerait, and you landed on my github 😉
 > I'm 28 years old and I'm learning programmation
