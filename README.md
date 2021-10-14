@@ -1,5 +1,5 @@
 
-# Hi there, I'm Cindy Billerait 👋
+# Hi there, I'm Cindy Billerait, and you landed on my github 😉
 > I'm 28 years old and I'm learning programmation
 >> Un bon site Web est toujours "en construction" ! <br>
 >> `Vous ne pouvez pas comprendre la récursivité sans avoir d’abord compris la récursivité — Auteur Inconnu.`
