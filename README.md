@@ -1,4 +1,4 @@
-![Un paisible coucher de soleil !](/assets/images/coucherSoleil.png)
+![Un paisible coucher de soleil !](/assets/images/coucherSoleil.jpg)
 
 <br>
 
