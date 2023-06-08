@@ -65,3 +65,8 @@ I have some ideas to use database and I'm just waiting to know how to do exactly
 I'm learning how to draw with pixels.
 I would like to learn japonese because I really love this country and I would like to go there some day !
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bllrt-cindy&layout=donut-vertical)](https://github.com/Bllrt-cindy/github-readme-stats)
+[![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Bllrt-cindy&bg_color=-45,4A2C14,FFA500&title_color=005AFF&text_color=FFFFFF&show_icons=true&icon_color=005AFF)](https://github.com/Bllrt-cindy)
+
+
