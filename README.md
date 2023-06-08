@@ -3,21 +3,21 @@
 <br>
 
 # A big Welcome ! 😉
-> I'm 28 years old and I'm learning programmation
->> Un bon site Web est toujours "en construction" ! <br>
+> I am 30 years old and I am learning programming.
+>> "A good website is always "under construction"!" ! <br>
 
 <br>
 
 
 # *Who Am I ?*
 <br>
-I'm a back-end developer student. I live in France in Brittany. Since last year I am very interested in web development. I got my front end diploma last year, and i just decided to continu this way. Actually, I can create some fun and dynamics websites using JavaScript, HTML CSS. I feel more and more comfortable and involved in this job.
+I am a back-end developer student living in Brittany, France. I have been highly interested in web development since last year. I obtained my front-end diploma last year and have decided to continue pursuing this path. Currently, I am proficient in creating dynamic and entertaining websites using JavaScript, HTML, and CSS. I feel increasingly comfortable and engaged in this profession.
 
-To increase my skills as a developer, I like to programme some little funny games to exercise, take online courses, I like to use scratch too to learn more about algorithme and other things... I’m currently working on C language and Python and I'm exited to learn how to manage a database so i can make full of different projects !
+To enhance my skills as a developer, I enjoy programming small, fun games for practice. I also take online courses and utilize Scratch to further my understanding of algorithms and other concepts. Presently, I am working on improving my skills in C language and Python. I am particularly excited to learn database management as it will enable me to undertake diverse projects!
 
 
 <details>
-<summary>Here are my Competences</summary>
+<summary>Here are my skills</summary>
   
 ## Hardskills <br>
  
@@ -50,9 +50,9 @@ To increase my skills as a developer, I like to programme some little funny game
 ### *What i like to do ?*
 <br>
 
-I like to use inkscape, I thing it's very interessing to use my own caracters when I'm using scratch for exemple.
-In my life, I balance the activities I love such as to paint, draw, danse and sing, and sometimes I like to organize some shooting photo too. I am a zelda game fan, i'm not a movie lovers, but almost should I say 😂.
-To finish, I like to grow and learn some new things, to have some thrills for example, I actually learn how to draw with pixels and the parachute jump I did.
+I enjoy using Inkscape as it allows me to create my own characters when I use Scratch, for example. In my life, I balance activities I love, such as painting, drawing, dancing, and singing. Sometimes, I also like to organize photo shoots. I'm a fan of Zelda games, and while I'm not exactly a movie lover, I do enjoy them to some extent 😂.
+
+Lastly, I enjoy personal growth and learning new things. I seek thrills, such as learning pixel art and even trying skydiving.
 <br>
 
 #### *Here are some things I project to do :*
